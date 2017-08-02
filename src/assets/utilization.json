@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "name": "COGN-101",
+    "identifier": "101",
+    "rag_totals": {
+      "A": "0",
+      "Y": "32",
+      "G": "68"
+    },
+    "resource_category": [
+      {
+        "id": 1,
+        "name": "Instruments",
+        "rag_totals": {
+          "A": "0",
+          "Y": "32",
+          "G": "68"
+        },
+        "types": [
+          {
+            "id": 1,
+            "name": "Mass Spectrometer(MS)",
+            "number": "1",
+            "count": "2",
+            "rag_totals": {
+              "A": "0",
+              "Y": "32",
+              "G": "68"
+            },
+            "types_category": [
+              {
+                "id": 1,
+                "name": "MS1",
+                "rag_totals": {
+                  "A": "0",
+                  "Y": "32",
+                  "G": "68"
+                }
+              },
+              {
+                "id": 2,
+                "name": "MS2",
+                "rag_totals": {
+                  "A": "0",
+                  "Y": "32",
+                  "G": "68"
+                }
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "High Performance Liquid Chromatogram (HPLC) ",
+            "number": "2",
+            "count": "4",
+            "rag_totals": {
+              "A": 6,
+              "Y": 22,
+              "G": 72
+            },
+            "types_category": [
+              {
+                "id": 3,
+                "name": "HPLC1",
+                "rag_totals": {
+                  "A": 6,
+                  "Y": 22,
+                  "G": 72
+                }
+              },
+              {
+                "id": 4,
+                "name": "HPLC2",
+                "rag_totals": {
+                  "A": 6,
+                  "Y": 22,
+                  "G": 72
+                }
+              },
+              {
+                "id": 4,
+                "name": "HPLC3",
+                "rag_totals": {
+                  "A": 6,
+                  "Y": 22,
+                  "G": 72
+                }
+              },
+              {
+                "id": 4,
+                "name": "HPLC4",
+                "rag_totals": {
+                  "A": 6,
+                  "Y": 22,
+                  "G": 72
+                }
+              }
+            ]
+          },
+              {
+            "id": 3,
+            "name": "Freezer (FR)",
+            "number": "3",
+             "count": "2",
+            "rag_totals": {
+              "A": 0,
+              "Y": 0,
+              "G": 100
+            },
+            "types_category": [
+              {
+                "id": 5,
+                "name": "FR1",
+                "rag_totals": {
+                  "A": 0,
+                  "Y": 0,
+                  "G": 100
+                }
+              },
+              {
+                "id": 6,
+                "name": "FR2",
+                "rag_totals": {
+                  "A": 0,
+                  "Y": 0,
+                  "G": 100
+                }
+              }
+            ]
+          },
+             {
+            "id": 4,
+            "name": "Incubator (IN)",
+            "number": "4",
+             "count": "2",
+            "rag_totals": {
+              "A":8,
+              "Y": 27,
+              "G": 65
+            },
+            "types_category": [
+              {
+                "id": 7,
+                "name": "IN1",
+                "rag_totals": {
+                  "A": 8,
+                  "Y": 27,
+                  "G": 65
+                }
+              },
+              {
+                "id": 8,
+                "name": "IN2",
+                "rag_totals": {
+                  "A": 8,
+                  "Y": 27,
+                  "G": 65
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "COGN-102",
+    "identifier": "102",
+    "rag_totals": {
+      "A": 28.571,
+      "Y": 28.571,
+      "G": 42.857
+    },
+    "resource_category": [
+      {
+        "id": 2,
+        "name": "People",
+        "rag_totals": {
+          "A": 28.571,
+          "Y": 28.571,
+          "G": 42.857
+        },
+        "types": [
+          {
+            "id": 3,
+            "name": "Freezer (FR) – 5",
+            "number": "3",
+            "rag_totals": {
+              "A": 33.333,
+              "Y": 16.667,
+              "G": 50
+            },
+            "types_category": [
+              {
+                "id": 5,
+                "name": "HPLC1",
+                "rag_totals": {
+                  "A": 33.333,
+                  "Y": 33.333,
+                  "G": 33.333
+                }
+              },
+              {
+                "id": 6,
+                "name": "HPLC2",
+                "rag_totals": {
+                  "A": 33.333,
+                  "Y": 0,
+                  "G": 66.667
+                }
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Incubator (IN) – 8",
+            "number": "4",
+            "rag_totals": {
+              "A": 25,
+              "Y": 37.5,
+              "G": 37.5
+            },
+            "types_category": [
+              {
+                "id": 7,
+                "name": "HPLC3",
+                "rag_totals": {
+                  "A": 0,
+                  "Y": 75,
+                  "G": 25
+                }
+              },
+              {
+                "id": 8,
+                "name": "HPLC4",
+                "rag_totals": {
+                  "A": 50,
+                  "Y": 0,
+                  "G": 50
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
